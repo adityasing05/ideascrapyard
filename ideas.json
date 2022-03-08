@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Houseparty",
+        "description": "Houseparty was a social networking service that enabled group video chatting through mobile and desktop apps. It boomed & bombed during lockdown.",
+        "opened": "Feb 2016",
+        "closed": "Oct 2021",
+        "link": "https://en.wikipedia.org/wiki/Houseparty_(app)",
+        "type": "Company"
+    },
+    {
+        "name": "Meerkat",
+        "description": "Meerkat was a mobile app that enabled users to broadcast live video streaming through their mobile device.",
+        "opened": "Feb 2015",
+        "closed": "Oct 2016",
+        "link": "https://en.wikipedia.org/wiki/Meerkat_(app)",
+        "type": "Company"
+    },
+    {
+        "name": "Periscope",
+        "description": "Periscope was an American live video streaming app for Android and iOS acquired by Twitter even before release.",
+        "opened": "Feb 2014",
+        "closed": "March 2021",
+        "link": "https://www.periscope.tv/",
+        "type": "Company"
+    },
+    {
+        "name": "Vine",
+        "description": "Vine was an American social networking short-form video hosting service where users could share six-second-long, looping video clips.",
+        "opened": "June 2012",
+        "closed": "Oct 2016",
+        "link": "https://vine.co/",
+        "type": "Company"
+    },
+    {
+        "name": "Wishberry",
+        "description": "Wishberry was a Kickstarter-inspired crowdfunding platform based in India. It launched in 2012 for Arts & Creative projects.",
+        "opened": "2012",
+        "closed": "Dec 2020",
+        "link": "https://www.wishberry.in/create-campaign",
+        "type": "Company"
+    },
+    {
+        "name": "Orkut",
+        "description": "Orkut was a social networking service owned and operated by Google in its later years. The service was designed to help users meet new and old friends and maintain existing relationships.",
+        "opened": "Jan 2004",
+        "closed": "Sep 2014",
+        "link": "https://en.wikipedia.org/wiki/Orkut",
+        "type": "Company"
+    }
+]
